@@ -76,7 +76,7 @@ Widget titleSection = Container(
 
     //Icon has Function
       const FavoriteWidget(),
-      const Text('41'),
+
     ],
   ),
 );
